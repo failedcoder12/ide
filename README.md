@@ -6,7 +6,7 @@ Coding Blocks IDE is an online IDE which supports compliation of multiple progra
 [![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)](https://app.netlify.com/sites/cb-ide)  
 Commits to master and PRs are automatically built and deployed by Netlify
 
-![image](https://user-images.githubusercontent.com/22571395/28400188-1986c13c-6d2f-11e7-8955-98f257abb5ff.png)
+![ice_screenshot_20180516-233432](https://user-images.githubusercontent.com/26716263/40135553-455adeda-5963-11e8-96a4-68031e4dfff4.png)
 
 ## Table of Contents
 - [Build Setup](#build-setup)
